@@ -1,0 +1,7 @@
+Model,System Variant,Unsafe Accepts,Deferred Cases,Correct Escalations,Decision Safety
+ResNet50,CNN only,1369,0,0,0.4642
+ResNet50,CNN + uncertainty-aware expert layer,831,772,672,0.6748
+EfficientNet-B0,CNN only,1368,0,0,0.4646
+EfficientNet-B0,CNN + uncertainty-aware expert layer,579,1004,904,0.7734
+MobileNetV2,CNN only,793,0,0,0.6896
+MobileNetV2,CNN + uncertainty-aware expert layer,341,1380,1194,0.8665

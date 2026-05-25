@@ -1,0 +1,4 @@
+Model,Pipeline Latency (ms),Model Size (MB),Server Deployment,Browser Deployment,Mobile Deployment,Overall Suitability
+ResNet50,8.0483,90.1947,High,Low,Low,Medium
+EfficientNet-B0,8.5107,15.7117,High,High,High,High
+MobileNetV2,5.5707,8.8542,High,High,High,High

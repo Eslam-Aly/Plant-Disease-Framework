@@ -1,0 +1,5 @@
+Dataset,Samples,Classes
+PlantVillage Train,25795,27
+PlantVillage Validation,5518,27
+PlantVillage Test,5553,27
+PlantDoc,2555,27

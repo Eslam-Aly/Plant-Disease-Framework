@@ -1,0 +1,4 @@
+Model,ECE Before,ECE After,Brier Score Before,Brier Score After,Avg. Predictive Entropy,High-Confidence Misclassifications Before (%),High-Confidence Misclassifications After (%)
+ResNet50,0.5404,0.5399,1.2664,1.2658,0.2418,37.182,37.0646
+EfficientNet-B0,0.5558,0.507,1.2858,1.2293,0.2587,34.5597,28.1409
+MobileNetV2,0.3719,0.3728,1.076,1.0769,0.4178,16.9863,17.0646

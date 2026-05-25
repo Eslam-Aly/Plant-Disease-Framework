@@ -1,0 +1,4 @@
+Model,Avg. Pipeline Time (ms),Model Size (MB),PlantVillage F1,PlantDoc F1,Latency Rank,Size Rank,PlantVillage F1 Rank,PlantDoc F1 Rank,Mean Rank
+MobileNetV2,5.5707,8.8542,0.9927,0.1712,1.0,1.0,2.0,2.0,1.5
+ResNet50,8.0483,90.1947,0.9921,0.1869,2.0,3.0,3.0,1.0,2.25
+EfficientNet-B0,8.5107,15.7117,0.994,0.1457,3.0,2.0,1.0,3.0,2.25

@@ -1,0 +1,7 @@
+Model,Train Dataset,Test Dataset,Accuracy (%),Precision,Recall,F1-score
+ResNet50,PlantVillage,PlantVillage,99.4958,0.9912,0.9931,0.9921
+ResNet50,PlantVillage,PlantDoc,20.2348,0.3064,0.2078,0.1869
+EfficientNet-B0,PlantVillage,PlantVillage,99.6218,0.9934,0.9947,0.994
+EfficientNet-B0,PlantVillage,PlantDoc,17.6517,0.3065,0.1807,0.1457
+MobileNetV2,PlantVillage,PlantVillage,99.4778,0.9925,0.9929,0.9927
+MobileNetV2,PlantVillage,PlantDoc,22.2309,0.3275,0.2162,0.1712

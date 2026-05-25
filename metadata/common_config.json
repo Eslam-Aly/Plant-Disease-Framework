@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "image_size": 224,
+  "batch_size": 32,
+  "num_workers": 2,
+  "plantvillage_root": "/kaggle/input/datasets/thedataeng/plantvillage",
+  "plantdoc_root": "/kaggle/input/datasets/thedataeng/plantdoc",
+  "output_root": "/kaggle/working/thesis_outputs/common_setup"
+}

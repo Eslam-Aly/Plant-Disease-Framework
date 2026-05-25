@@ -1,0 +1,4 @@
+Model,Avg_Confidence,Avg_Leaf_Focus_Ratio,Avg_Background_Leakage,Correct_Prediction_Rate
+EfficientNet-B0,0.7086,0.8521,0.1479,0.1094
+MobileNetV2,0.5639,0.8512,0.1488,0.0664
+ResNet50,0.7072,0.8373,0.1627,0.1016

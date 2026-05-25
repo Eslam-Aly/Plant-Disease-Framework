@@ -1,0 +1,7 @@
+Model,Prediction Type,Avg. Confidence,Avg. Leaf Focus Ratio,Avg. Background Leakage,Interpretation
+ResNet50,Correct Predictions,0.7622,0.8844,0.1156,More concentrated attention on relevant leaf regions
+ResNet50,Incorrect Predictions,0.701,0.8319,0.1681,More dispersed or misleading attention patterns
+EfficientNet-B0,Correct Predictions,0.8358,0.9285,0.0715,More concentrated attention on relevant leaf regions
+EfficientNet-B0,Incorrect Predictions,0.693,0.8427,0.1573,More dispersed or misleading attention patterns
+MobileNetV2,Correct Predictions,0.6272,0.8613,0.1387,More concentrated attention on relevant leaf regions
+MobileNetV2,Incorrect Predictions,0.5594,0.8505,0.1495,More dispersed or misleading attention patterns

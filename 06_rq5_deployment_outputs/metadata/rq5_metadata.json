@@ -1,0 +1,27 @@
+{
+  "seed": 42,
+  "models_evaluated": [
+    "resnet50",
+    "efficientnet_b0",
+    "mobilenet_v2"
+  ],
+  "benchmark_batch_size": 1,
+  "warmup_runs": 10,
+  "timed_runs": 50,
+  "num_classes": 27,
+  "measured_pipeline_components": [
+    "preprocessing",
+    "inference",
+    "uncertainty_aware_decision_logic"
+  ],
+  "excluded_components": [
+    "network_upload_time",
+    "frontend_rendering_time",
+    "grad_cam_generation_time"
+  ],
+  "decision_rule_inputs": [
+    "confidence",
+    "normalized_entropy"
+  ],
+  "note": "Latency was measured using batch size 1 to reflect single-image deployment. The measured pipeline includes preprocessing, neural network inference, and uncertainty-aware rule-based decision logic. Network upload, frontend rendering, and Grad-CAM generation latency were excluded because they were not benchmarked in this deployment notebook."
+}

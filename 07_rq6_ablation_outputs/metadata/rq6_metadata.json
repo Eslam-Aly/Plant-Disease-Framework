@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "models_evaluated": [
+    "resnet50",
+    "efficientnet_b0",
+    "mobilenet_v2"
+  ],
+  "temperatures": {
+    "resnet50": 1.002,
+    "efficientnet_b0": 1.1691,
+    "mobilenet_v2": 0.9974
+  },
+  "mc_passes": 30,
+  "focus_batches": 6,
+  "num_classes": 27,
+  "num_samples": 2555
+}

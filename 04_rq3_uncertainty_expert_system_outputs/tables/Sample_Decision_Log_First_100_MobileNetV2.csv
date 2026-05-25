@@ -1,0 +1,101 @@
+TrueClass,PredictedClass,Confidence,NormEntropy,Action,Recommendation,Correct
+Apple Scab Leaf,Apple Scab Leaf,0.5228,0.4477,Retake,Request a clearer image,1
+Apple Scab Leaf,grape leaf black rot,0.2464,0.7332,Review,Seek expert review,0
+Apple Scab Leaf,Corn leaf blight,0.8453,0.2574,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.7141,0.3908,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.3418,0.5664,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.5482,0.558,Retake,Request a clearer image,0
+Apple Scab Leaf,Bell_pepper leaf,0.5406,0.4184,Retake,Request a clearer image,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.6911,0.3235,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Bell_pepper leaf spot,0.9007,0.1258,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.4872,0.6091,Retake,Request a clearer image,0
+Apple Scab Leaf,Bell_pepper leaf,0.3768,0.6613,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.3071,0.5803,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Early blight leaf,0.9668,0.0566,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Corn Gray leaf spot,0.2344,0.7325,Review,Seek expert review,0
+Apple Scab Leaf,grape leaf black rot,0.2382,0.711,Review,Seek expert review,0
+Apple Scab Leaf,Apple Scab Leaf,0.3102,0.6848,Review,Seek expert review,1
+Apple Scab Leaf,Corn Gray leaf spot,0.4311,0.5184,Review,Seek expert review,0
+Apple Scab Leaf,grape leaf black rot,0.317,0.6123,Review,Seek expert review,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.4482,0.6171,Review,Seek expert review,0
+Apple Scab Leaf,Bell_pepper leaf spot,0.9832,0.0375,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Cherry leaf,0.2688,0.6716,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Early blight leaf,0.4345,0.5989,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.8915,0.1909,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Bell_pepper leaf,0.57,0.363,Retake,Request a clearer image,0
+Apple Scab Leaf,Potato leaf early blight,0.9643,0.0823,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Bell_pepper leaf spot,0.7472,0.3228,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Bell_pepper leaf,0.671,0.3553,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Apple Scab Leaf,0.4516,0.3681,Retake,Request a clearer image,1
+Apple Scab Leaf,grape leaf black rot,0.475,0.5073,Retake,Request a clearer image,0
+Apple Scab Leaf,Tomato leaf late blight,0.3036,0.628,Review,Seek expert review,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.6282,0.4087,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.7226,0.3966,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Corn rust leaf,0.3419,0.5975,Review,Seek expert review,0
+Apple Scab Leaf,grape leaf black rot,0.2479,0.7092,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.2641,0.6353,Review,Seek expert review,0
+Apple Scab Leaf,Bell_pepper leaf,0.7443,0.2845,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Strawberry leaf,0.5497,0.5499,Retake,Request a clearer image,0
+Apple Scab Leaf,Strawberry leaf,0.2919,0.5574,Review,Seek expert review,0
+Apple Scab Leaf,Apple Scab Leaf,0.2532,0.7014,Review,Seek expert review,1
+Apple Scab Leaf,Corn rust leaf,0.6566,0.2362,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Corn rust leaf,0.9418,0.0876,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Apple Scab Leaf,0.4456,0.5389,Review,Seek expert review,1
+Apple Scab Leaf,Bell_pepper leaf,0.5125,0.4999,Retake,Request a clearer image,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.6651,0.5042,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Tomato leaf late blight,0.6117,0.4328,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.9748,0.0572,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Tomato leaf,0.3485,0.5028,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Early blight leaf,0.6261,0.4509,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.9475,0.1071,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Apple Scab Leaf,0.874,0.1903,Accept,Recommend treatment or monitoring by predicted class,1
+Apple Scab Leaf,Potato leaf early blight,0.8865,0.1487,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Potato leaf early blight,0.2898,0.6035,Review,Seek expert review,0
+Apple Scab Leaf,Bell_pepper leaf,0.9661,0.0611,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.8889,0.1759,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Tomato Early blight leaf,0.7586,0.2219,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,grape leaf black rot,0.6586,0.3838,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.8992,0.1895,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Apple leaf,0.3854,0.6719,Review,Seek expert review,0
+Apple Scab Leaf,Tomato leaf late blight,0.3118,0.5057,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Early blight leaf,0.975,0.0475,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.9142,0.1649,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Tomato Early blight leaf,0.2819,0.6404,Review,Seek expert review,0
+Apple Scab Leaf,Potato leaf early blight,0.8018,0.2752,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Tomato Early blight leaf,0.5677,0.5676,Retake,Request a clearer image,0
+Apple Scab Leaf,Tomato Septoria leaf spot,0.3415,0.5429,Review,Seek expert review,0
+Apple Scab Leaf,Tomato Early blight leaf,0.3225,0.554,Review,Seek expert review,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.322,0.5587,Review,Seek expert review,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.5945,0.3688,Retake,Request a clearer image,0
+Apple Scab Leaf,Bell_pepper leaf spot,0.1728,0.7494,Review,Seek expert review,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.4271,0.663,Review,Seek expert review,0
+Apple Scab Leaf,grape leaf black rot,0.2298,0.8017,Review,Seek expert review,0
+Apple Scab Leaf,Bell_pepper leaf,0.9367,0.1191,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,grape leaf black rot,0.3263,0.5787,Review,Seek expert review,0
+Apple Scab Leaf,Bell_pepper leaf,0.5524,0.5375,Retake,Request a clearer image,0
+Apple Scab Leaf,Tomato leaf late blight,0.7098,0.3861,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Apple Scab Leaf,0.9984,0.0059,Accept,Recommend treatment or monitoring by predicted class,1
+Apple Scab Leaf,Blueberry leaf,0.6623,0.3299,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,grape leaf black rot,0.6208,0.4548,Monitor,Monitor and retake if symptoms persist,0
+Apple Scab Leaf,Bell_pepper leaf spot,0.2012,0.8038,Review,Seek expert review,0
+Apple Scab Leaf,Cherry leaf,0.2538,0.8206,Review,Seek expert review,0
+Apple Scab Leaf,Bell_pepper leaf,0.2848,0.6438,Review,Seek expert review,0
+Apple Scab Leaf,grape leaf black rot,0.3859,0.5238,Review,Seek expert review,0
+Apple Scab Leaf,Apple Scab Leaf,0.4821,0.4266,Retake,Request a clearer image,1
+Apple Scab Leaf,Tomato Early blight leaf,0.8596,0.1417,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.9677,0.0763,Accept,Recommend treatment or monitoring by predicted class,0
+Apple Scab Leaf,Bell_pepper leaf,0.4154,0.6427,Review,Seek expert review,0
+Apple Scab Leaf,Blueberry leaf,0.3243,0.5619,Review,Seek expert review,0
+Apple Scab Leaf,Bell_pepper leaf spot,0.301,0.6948,Review,Seek expert review,0
+Apple Scab Leaf,Squash Powdery mildew leaf,0.3771,0.6134,Review,Seek expert review,0
+Apple Scab Leaf,Corn leaf blight,0.4847,0.6139,Retake,Request a clearer image,0
+Apple Scab Leaf,Bell_pepper leaf spot,0.3139,0.5182,Review,Seek expert review,0
+Apple Scab Leaf,Apple Scab Leaf,0.8918,0.2097,Accept,Recommend treatment or monitoring by predicted class,1
+Apple leaf,grape leaf black rot,0.2493,0.6339,Review,Seek expert review,0
+Apple leaf,grape leaf black rot,0.332,0.7811,Review,Seek expert review,0
+Apple leaf,Tomato Early blight leaf,0.5983,0.3675,Retake,Request a clearer image,0
+Apple leaf,Bell_pepper leaf,0.6343,0.3009,Monitor,Monitor and retake if symptoms persist,0
+Apple leaf,Apple leaf,0.9912,0.0225,Accept,Recommend treatment or monitoring by predicted class,1
+Apple leaf,Cherry leaf,0.4726,0.4662,Retake,Request a clearer image,0
+Apple leaf,Blueberry leaf,0.2588,0.7215,Review,Seek expert review,0
+Apple leaf,Bell_pepper leaf,0.1711,0.7595,Review,Seek expert review,0

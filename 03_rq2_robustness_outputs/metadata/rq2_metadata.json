@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "models_evaluated": [
+    "resnet50",
+    "efficientnet_b0",
+    "mobilenet_v2"
+  ],
+  "perturbations": [
+    "blur",
+    "low_light",
+    "occlusion",
+    "background_clutter"
+  ],
+  "severity_levels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "num_classes": 27
+}

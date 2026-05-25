@@ -1,0 +1,16 @@
+Model,System Variant,Accuracy,Accepted Accuracy,Decision Safety,Deferral Rate,Unsafe Accepts,Correct Escalations,Explanation Support Rate
+ResNet50,CNN only,0.2023,0.2023,0.2023,0.0,2038,0,0.0
+ResNet50,CNN + calibrated confidence,0.2023,0.2339,0.4654,0.3022,1366,672,0.0
+ResNet50,CNN + confidence + MC Dropout uncertainty,0.2023,0.2344,0.4771,0.317,1336,702,0.0
+ResNet50,CNN + confidence + uncertainty + explanation support,0.2023,0.2388,0.4896,0.3295,1304,734,1.0
+ResNet50,CNN + confidence + uncertainty + explanation + expert decision layer,0.2023,0.2566,0.6031,0.4661,1014,1024,1.0
+EfficientNet-B0,CNN only,0.1765,0.1765,0.1765,0.0,2104,0,0.0
+EfficientNet-B0,CNN + calibrated confidence,0.1765,0.2263,0.5303,0.393,1200,904,0.0
+EfficientNet-B0,CNN + confidence + MC Dropout uncertainty,0.1765,0.2263,0.5303,0.393,1200,904,0.0
+EfficientNet-B0,CNN + confidence + uncertainty + explanation support,0.1765,0.2274,0.5346,0.3977,1189,915,1.0
+EfficientNet-B0,CNN + confidence + uncertainty + explanation + expert decision layer,0.1765,0.262,0.6802,0.5667,817,1287,1.0
+MobileNetV2,CNN only,0.2223,0.2223,0.2223,0.0,1987,0,0.0
+MobileNetV2,CNN + calibrated confidence,0.2223,0.3246,0.6888,0.5393,795,1192,0.0
+MobileNetV2,CNN + confidence + MC Dropout uncertainty,0.2223,0.3419,0.7303,0.5902,689,1298,0.0
+MobileNetV2,CNN + confidence + uncertainty + explanation support,0.2223,0.3456,0.7346,0.5945,678,1309,1.0
+MobileNetV2,CNN + confidence + uncertainty + explanation + expert decision layer,0.2223,0.389,0.818,0.7022,465,1522,1.0

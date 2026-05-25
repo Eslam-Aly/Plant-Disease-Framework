@@ -1,0 +1,16 @@
+Model,System Variant,Unsafe Accepts,Correct Escalations,Explanation Support Rate,Overall Interpretation
+ResNet50,CNN only,2038,0,0.0,"High risk, no decision filtering"
+ResNet50,CNN + calibrated confidence,1366,672,0.0,Moderate filtering improvement
+ResNet50,CNN + confidence + MC Dropout uncertainty,1336,702,0.0,Stronger uncertainty-aware filtering
+ResNet50,CNN + confidence + uncertainty + explanation support,1304,734,1.0,Better interpretability of risky cases
+ResNet50,CNN + confidence + uncertainty + explanation + expert decision layer,1014,1024,1.0,Best overall safety and decision support
+EfficientNet-B0,CNN only,2104,0,0.0,"High risk, no decision filtering"
+EfficientNet-B0,CNN + calibrated confidence,1200,904,0.0,Moderate filtering improvement
+EfficientNet-B0,CNN + confidence + MC Dropout uncertainty,1200,904,0.0,Stronger uncertainty-aware filtering
+EfficientNet-B0,CNN + confidence + uncertainty + explanation support,1189,915,1.0,Better interpretability of risky cases
+EfficientNet-B0,CNN + confidence + uncertainty + explanation + expert decision layer,817,1287,1.0,Best overall safety and decision support
+MobileNetV2,CNN only,1987,0,0.0,"High risk, no decision filtering"
+MobileNetV2,CNN + calibrated confidence,795,1192,0.0,Moderate filtering improvement
+MobileNetV2,CNN + confidence + MC Dropout uncertainty,689,1298,0.0,Stronger uncertainty-aware filtering
+MobileNetV2,CNN + confidence + uncertainty + explanation support,678,1309,1.0,Better interpretability of risky cases
+MobileNetV2,CNN + confidence + uncertainty + explanation + expert decision layer,465,1522,1.0,Best overall safety and decision support

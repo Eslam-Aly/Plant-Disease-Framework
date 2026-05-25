@@ -1,0 +1,28 @@
+index,pred_Apple Scab Leaf,pred_Apple leaf,pred_Apple rust leaf,pred_Bell_pepper leaf,pred_Bell_pepper leaf spot,pred_Blueberry leaf,pred_Cherry leaf,pred_Corn Gray leaf spot,pred_Corn leaf blight,pred_Corn rust leaf,pred_Peach leaf,pred_Potato leaf early blight,pred_Potato leaf late blight,pred_Raspberry leaf,pred_Soyabean leaf,pred_Squash Powdery mildew leaf,pred_Strawberry leaf,pred_Tomato Early blight leaf,pred_Tomato Septoria leaf spot,pred_Tomato leaf,pred_Tomato leaf bacterial spot,pred_Tomato leaf late blight,pred_Tomato leaf mosaic virus,pred_Tomato leaf yellow virus,pred_Tomato mold leaf,pred_grape leaf,pred_grape leaf black rot
+true_Apple Scab Leaf,7,3,2,7,5,2,14,2,4,3,1,6,0,0,0,0,0,23,1,0,0,2,0,0,0,0,10
+true_Apple leaf,0,6,0,10,1,48,11,0,0,0,1,1,0,2,0,0,0,1,1,1,0,5,1,2,0,0,0
+true_Apple rust leaf,1,0,15,3,9,2,16,6,3,4,0,3,0,0,0,2,0,8,0,0,1,3,0,0,0,0,12
+true_Bell_pepper leaf,0,0,0,22,0,6,22,0,0,1,0,1,1,0,0,0,0,2,0,1,0,4,0,0,0,0,0
+true_Bell_pepper leaf spot,0,0,0,13,11,0,20,1,1,1,0,2,0,0,0,0,0,12,3,0,0,2,0,0,0,0,4
+true_Blueberry leaf,0,1,0,8,1,31,51,0,0,1,2,3,0,0,0,0,0,0,3,6,0,1,0,0,2,0,4
+true_Cherry leaf,0,3,0,7,2,10,21,0,0,0,5,0,0,1,0,0,0,0,0,4,0,1,0,0,0,0,3
+true_Corn Gray leaf spot,0,0,0,0,0,0,5,46,9,1,0,0,0,0,0,0,0,3,0,0,0,0,0,1,1,0,0
+true_Corn leaf blight,0,0,0,6,7,3,39,74,46,2,0,0,0,0,0,1,0,10,0,0,0,1,0,0,0,0,0
+true_Corn rust leaf,0,0,0,1,2,0,5,73,17,13,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+true_Peach leaf,0,0,0,20,0,44,24,0,0,0,10,1,0,0,0,0,0,0,0,0,0,6,0,6,0,0,0
+true_Potato leaf early blight,1,0,0,2,7,0,22,2,2,8,1,27,8,0,1,0,0,20,4,0,0,6,0,0,2,0,2
+true_Potato leaf late blight,1,0,0,7,4,2,23,0,1,2,0,12,9,0,0,0,0,16,4,0,0,20,0,0,3,0,1
+true_Raspberry leaf,0,0,0,6,0,4,34,1,0,0,3,1,0,46,0,1,0,2,1,2,0,7,2,3,1,3,2
+true_Soyabean leaf,0,0,0,8,1,19,18,0,0,0,0,1,0,2,0,0,0,0,3,1,0,5,1,4,0,2,0
+true_Squash Powdery mildew leaf,1,0,0,2,0,0,29,22,0,0,0,4,0,0,2,34,0,18,0,0,0,1,0,0,1,0,15
+true_Strawberry leaf,0,0,0,3,0,2,17,0,0,0,0,0,0,37,0,0,4,2,1,0,0,14,0,1,0,9,6
+true_Tomato Early blight leaf,0,0,0,7,2,0,17,0,0,0,1,4,1,0,0,0,0,43,2,0,0,5,0,0,2,0,4
+true_Tomato Septoria leaf spot,1,0,1,2,1,2,41,2,0,4,0,11,0,0,0,0,0,58,10,1,3,1,0,1,6,0,5
+true_Tomato leaf,0,0,0,10,0,7,23,0,0,0,1,0,0,0,0,0,0,3,4,3,0,3,8,0,1,0,0
+true_Tomato leaf bacterial spot,0,0,0,3,6,3,27,2,0,1,0,9,0,0,2,2,0,32,9,1,0,7,0,0,3,0,3
+true_Tomato leaf late blight,0,0,0,8,3,2,12,1,1,0,0,3,2,0,0,1,1,17,1,0,0,50,0,1,7,0,1
+true_Tomato leaf mosaic virus,0,0,0,8,1,0,26,1,0,0,0,1,0,0,0,2,0,7,0,0,0,3,0,3,2,0,0
+true_Tomato leaf yellow virus,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,3,1,0,1
+true_Tomato mold leaf,0,0,1,3,4,2,23,3,1,0,0,4,0,0,0,0,0,14,0,0,0,24,0,1,7,0,3
+true_grape leaf,1,0,0,1,0,3,20,0,0,0,3,1,0,8,0,1,0,1,1,0,0,4,1,0,1,19,4
+true_grape leaf black rot,1,1,0,1,0,1,13,4,0,0,0,4,0,0,0,0,0,1,3,0,0,0,0,0,0,1,34

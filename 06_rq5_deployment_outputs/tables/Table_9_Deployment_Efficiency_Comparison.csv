@@ -1,0 +1,4 @@
+Model,Parameters (M),Model Size (MB),Avg. Preprocess Time (ms),Avg. Inference Time (ms),Avg. Decision Time (ms),Avg. Pipeline Time (ms),PlantVillage Accuracy (%),PlantVillage F1,PlantDoc Accuracy (%),PlantDoc F1
+ResNet50,23.5634,90.1947,0.2156,6.4886,1.3441,8.0483,99.4958,0.9921,20.2348,0.1869
+EfficientNet-B0,4.0421,15.7117,0.0745,8.252,0.1842,8.5107,99.6218,0.994,17.6517,0.1457
+MobileNetV2,2.2585,8.8542,0.0714,5.3118,0.1875,5.5707,99.4778,0.9927,22.2309,0.1712

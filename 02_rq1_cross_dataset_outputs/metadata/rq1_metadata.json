@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "selected_best_model": "ResNet50",
+  "num_models_evaluated": 3,
+  "datasets": [
+    "PlantVillage",
+    "PlantDoc"
+  ],
+  "num_classes": 27
+}

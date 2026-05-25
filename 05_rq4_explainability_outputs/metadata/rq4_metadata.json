@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "models_evaluated": [
+    "resnet50",
+    "efficientnet_b0",
+    "mobilenet_v2"
+  ],
+  "figure7_models": [
+    "resnet50",
+    "efficientnet_b0",
+    "mobilenet_v2"
+  ],
+  "audit_batches": 8,
+  "num_classes": 27,
+  "audited_samples_total": 768,
+  "figure7_output_mode": "one_figure_per_model"
+}

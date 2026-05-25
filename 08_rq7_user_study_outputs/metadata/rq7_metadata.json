@@ -1,0 +1,27 @@
+{
+  "num_participants": 108,
+  "num_raw_submissions": 108,
+  "num_case_level_responses": 432,
+  "case_ids": [
+    "full_easy",
+    "full_hard",
+    "simple_easy",
+    "simple_hard"
+  ],
+  "interface_types": [
+    "full",
+    "simple"
+  ],
+  "case_level_evaluation_dimensions": [
+    "trustScore",
+    "clarityScore",
+    "selectedAction"
+  ],
+  "final_response_dimensions": [
+    "finalResponse.clearerVersion",
+    "finalResponse.moreUsefulVersion",
+    "finalResponse.saferVersion",
+    "finalResponse.reuseScore"
+  ],
+  "analysis_notes": "RQ7 analysis uses case-level responses for trust and clarity comparisons, and final participant responses for overall preferences regarding clarity, usefulness, safety, and reuse intention."
+}
