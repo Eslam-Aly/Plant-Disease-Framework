@@ -1,0 +1,4 @@
+model_name,best_epoch,best_val_accuracy,best_val_precision,best_val_recall,best_val_f1,parameters,checkpoint_path
+resnet50,10,0.9956505980427691,0.9946227153288439,0.9948204512933176,0.9947089716329456,23563355,/kaggle/working/thesis_outputs/train_backbones/checkpoints/resnet50_seed42_best.pt
+efficientnet_b0,10,0.997462848858282,0.9966268289118143,0.9955459940311322,0.9960607708967965,4042135,/kaggle/working/thesis_outputs/train_backbones/checkpoints/efficientnet_b0_seed42_best.pt
+mobilenet_v2,6,0.9958318231243204,0.9943495960436711,0.9937173721347327,0.994011956692245,2258459,/kaggle/working/thesis_outputs/train_backbones/checkpoints/mobilenet_v2_seed42_best.pt
